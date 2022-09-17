@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nilesh_singh_05_
-- 👀 I’m interested in full stack devloper 
-- 🌱 I’m currently learning node .js
+- 👀 I’m interested in front-end devloper 
+- 🌱 I’m currently learning front-end
 - 💞️ I’m looking to collaborate on join projects.
 - 📫 How to reach me ...contact 7490965608
 
